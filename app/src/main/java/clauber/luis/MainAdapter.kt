@@ -9,7 +9,6 @@ import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.data_row.view.*
 
 /*
-* Created by Clauber Ferreira on November 25, 2019
 * Created by Luis Souza on November 25, 2019
 */
 class CustomViewHolderClass(

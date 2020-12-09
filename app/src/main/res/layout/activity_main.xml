@@ -30,7 +30,7 @@
         android:inputType="textPersonName"
         app:layout_constraintBottom_toBottomOf="@+id/searchButton"
         app:layout_constraintEnd_toStartOf="@+id/searchButton"
-        app:layout_constraintHorizontal_bias="0.364"
+        app:layout_constraintHorizontal_bias="0.702"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="@+id/searchButton"
         app:layout_constraintVertical_bias="1.0" />

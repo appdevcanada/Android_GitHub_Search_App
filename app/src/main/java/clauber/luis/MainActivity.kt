@@ -20,7 +20,6 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 /*
-* Created by Clauber Ferreira on December 02, 2019
 * Created by Luis Souza on December 02, 2019
 */
 class MainActivity : AppCompatActivity() {

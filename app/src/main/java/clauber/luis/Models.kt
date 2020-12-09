@@ -7,7 +7,6 @@ import retrofit2.http.Query
 import java.io.Serializable
 
 /*
-* Created by Clauber Ferreira on November 25, 2019
 * Created by Luis Souza on November 25, 2019
 */
 

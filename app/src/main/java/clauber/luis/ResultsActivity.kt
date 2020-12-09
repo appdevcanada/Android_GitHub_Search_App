@@ -6,7 +6,6 @@ import androidx.recyclerview.widget.LinearLayoutManager
 import kotlinx.android.synthetic.main.activity_results.*
 
 /*
-* Created by Clauber Ferreira on November 25, 2019
 * Created by Luis Souza on November 25, 2019
 */
 class ResultsActivity : AppCompatActivity() {

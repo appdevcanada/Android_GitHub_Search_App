@@ -5,7 +5,6 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_web_view.*
 
 /*
-* Created by Clauber Ferreira on November 30, 2019
 * Created by Luis Souza on November 30, 2019
 */
 class WebViewActivity : AppCompatActivity() {

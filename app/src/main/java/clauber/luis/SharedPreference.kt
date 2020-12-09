@@ -1,7 +1,6 @@
 package clauber.luis
 
 /*
-* Created by Clauber Ferreira on November 05, 2019
 * Created by Luis Souza on November 05, 2019
 */
 import android.content.Context

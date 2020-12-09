@@ -14,7 +14,6 @@ import okhttp3.*
 import java.io.IOException
 
 /*
-* Created by Clauber Ferreira on December 02, 2019
 * Created by Luis Souza on December 02, 2019
 */
 class DetailsActivity : AppCompatActivity() {

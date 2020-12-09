@@ -4,7 +4,6 @@ import android.text.InputFilter
 import android.text.Spanned
 
 /*
-* Created by Clauber Ferreira on December 02, 2019
 * Created by Luis Souza on December 02, 2019
 */
 class InputFilterMinMax(min: Int, max: Int) : InputFilter {

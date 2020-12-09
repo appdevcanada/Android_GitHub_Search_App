@@ -6,7 +6,6 @@ import kotlinx.android.synthetic.main.activity_about.*
 import kotlinx.android.synthetic.main.activity_details.*
 
 /*
-* Created by Clauber Ferreira on December 01, 2019
 * Created by Luis Souza on December 01, 2019
 */
 class AboutActivity : AppCompatActivity() {

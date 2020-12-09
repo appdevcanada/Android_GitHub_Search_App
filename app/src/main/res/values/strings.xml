@@ -28,12 +28,12 @@
     <string name="page_size_hint">page size</string>
     <string name="min_followers_hint">min. # followers</string>
     <string name="repos_hint">repos</string>
-    <string name="app_version">%1$s\nv1.1.0</string>
+    <string name="app_version">%1$s\nv1.1.1</string>
     <string name="createdBy">Created By\nLuis Souza</string>
     <string name="company_name"><![CDATA[- App Dev Canada -]]></string>
     <string name="email_luis">appdevcanada@gmail.com</string>
     <string name="email">%1$s</string>
-    <string name="site_luis">https://github.com/mora0199\nhttps://mora0199.github.io</string>
+    <string name="site_luis">https://github.com/appdevcanada\nhttps://appdevcanada.github.io</string>
     <string name="site">%1$s</string>
     <string name="no_results">No results for %1$s </string>
     <string name="repos_key">REPOS_KEY</string>
