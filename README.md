@@ -22,7 +22,7 @@ This app uses the following technologies/libraries:
 Fell free to clone this repository and contribute with more functionality, new ideas and improvements.
 
 ```shell
-git clone https://github.com/appdevcanada/
+git clone https://github.com/appdevcanada/Android_GitHub_Search_App.git
 Open Android Studio
 Open Project
 ```
@@ -30,6 +30,6 @@ ___
 
 ## Screenshots
 
-**iOS** | **Android**
+| **Android** |
 |:---:|:---:|
 ![Screenshot 1](./screenshots/Screenshot(1).png "Main Screen") | ![Screenshot 2](./screenshots/Screenshot(2).png "Main Screen")
