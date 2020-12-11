@@ -30,6 +30,6 @@ ___
 
 ## Screenshots
 
-**Android** | 
+**Android** | x
 |:-----:|:-----:|
 ![Screenshot 1](./screenshots/Screenshot(1).png "Main Screen") | ![Screenshot 2](./screenshots/Screenshot(2).png "Main Screen")
