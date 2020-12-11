@@ -30,6 +30,9 @@ ___
 
 ## Screenshots
 
-**Android** | x
+**Android** | Screenshots
 |:-----:|:-----:|
 ![Screenshot 1](./screenshots/Screenshot(1).png "Main Screen") | ![Screenshot 2](./screenshots/Screenshot(2).png "Main Screen")
+![Screenshot 3](./screenshots/Screenshot(3).png "Main Screen") | ![Screenshot 4](./screenshots/Screenshot(4).png "Main Screen")
+![Screenshot 5](./screenshots/Screenshot(5).png "Results Screen") | ![Screenshot 6](./screenshots/Screenshot(6).png "Results Screen")
+![Screenshot 7](./screenshots/Screenshot(7).png "Detail Screen") | ![Screenshot 8](./screenshots/Screenshot(8).png "About Screen")
