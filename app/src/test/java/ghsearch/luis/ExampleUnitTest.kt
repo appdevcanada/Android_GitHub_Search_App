@@ -1,4 +1,4 @@
-package clauber.luis
+package ghsearch.luis
 
 import org.junit.Test
 

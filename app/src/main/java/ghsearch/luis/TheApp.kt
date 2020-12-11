@@ -1,4 +1,4 @@
-package clauber.luis
+package ghsearch.luis
 
 /*
 * Created by Luis Souza on November 05, 2019

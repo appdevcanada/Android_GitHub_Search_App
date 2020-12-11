@@ -1,4 +1,4 @@
-package clauber.luis
+package ghsearch.luis
 
 import android.content.Intent
 import android.view.LayoutInflater

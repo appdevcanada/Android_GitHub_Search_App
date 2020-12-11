@@ -1,9 +1,8 @@
-package clauber.luis
+package ghsearch.luis
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_about.*
-import kotlinx.android.synthetic.main.activity_details.*
 
 /*
 * Created by Luis Souza on December 01, 2019

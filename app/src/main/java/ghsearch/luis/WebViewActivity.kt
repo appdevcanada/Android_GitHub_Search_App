@@ -1,4 +1,4 @@
-package clauber.luis
+package ghsearch.luis
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -13,7 +13,7 @@ class WebViewActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_web_view)
 
-        val url = intent.getStringExtra(getString(R.string.url_key))
+        val url = intent.getStringExtra(getString(R.string.url_key)).toString()
 
         webViewGitHub.settings.javaScriptEnabled
         webViewGitHub.settings.loadWithOverviewMode

@@ -1,4 +1,4 @@
-package clauber.luis
+package ghsearch.luis
 
 import android.content.Context
 import android.content.Intent

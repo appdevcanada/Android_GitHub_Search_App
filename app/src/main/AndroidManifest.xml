@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="clauber.luis">
+    package="ghsearch.luis">
 
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <application
@@ -10,22 +10,22 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
-        android:name="clauber.luis.TheApp">
-        <activity android:name=".WebViewActivity"
-            android:parentActivityName=".DetailsActivity"
+        android:name="ghsearch.luis.TheApp">
+        <activity android:name="ghsearch.luis.WebViewActivity"
+            android:parentActivityName="ghsearch.luis.DetailsActivity"
             android:launchMode="singleTop" ></activity>
-        <activity android:name=".DetailsActivity"
-            android:parentActivityName=".ResultsActivity"
+        <activity android:name="ghsearch.luis.DetailsActivity"
+            android:parentActivityName="ghsearch.luis.ResultsActivity"
             android:launchMode="singleTop" />
-        <activity android:name=".ResultsActivity"
-            android:parentActivityName=".MainActivity"
+        <activity android:name="ghsearch.luis.ResultsActivity"
+            android:parentActivityName="ghsearch.luis.MainActivity"
             android:launchMode="singleTop" />
         <activity
-            android:name=".AboutActivity"
-            android:parentActivityName=".MainActivity"
+            android:name="ghsearch.luis.AboutActivity"
+            android:parentActivityName="ghsearch.luis.MainActivity"
             android:launchMode="singleTop"
             android:label="About"/>
-        <activity android:name=".MainActivity" android:launchMode="singleTop">
+        <activity android:name="ghsearch.luis.MainActivity" android:launchMode="singleTop">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

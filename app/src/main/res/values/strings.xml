@@ -23,9 +23,9 @@
     <string name="ok">OK</string>
     <string name="retry">Retry</string>
     <string name="quit">Quit</string>
-    <string name="min_repos_hint">min. # repos</string>
-    <string name="followers_hint">followers</string>
-    <string name="page_size_hint">page size</string>
+    <string name="min_repos_hint">Min. # Repos</string>
+    <string name="followers_hint">Followers</string>
+    <string name="page_size_hint">Page Size</string>
     <string name="min_followers_hint">min. # followers</string>
     <string name="repos_hint">repos</string>
     <string name="app_version">%1$s\nv1.1.1</string>

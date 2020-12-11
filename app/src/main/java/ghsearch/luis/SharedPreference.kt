@@ -1,11 +1,10 @@
-package clauber.luis
+package ghsearch.luis
 
 /*
 * Created by Luis Souza on November 05, 2019
 */
 import android.content.Context
 import android.content.SharedPreferences
-import clauber.luis.R
 
 class SharedPreference(private val context: Context = TheApp.context) {
 

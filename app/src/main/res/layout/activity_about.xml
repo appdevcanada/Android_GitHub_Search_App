@@ -39,6 +39,7 @@
                     android:adjustViewBounds="true"
                     android:contentDescription="@string/image_description"
                     android:cropToPadding="true"
+                    android:elevation="2dp"
                     android:scaleType="fitCenter"
                     app:srcCompat="@drawable/profile"
                     tools:srcCompat="@drawable/profile" />
