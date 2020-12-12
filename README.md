@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="/screenshots/Screenshot(1).png" width="300px" alt="GitHub Search App" />
+  <img src="/app/src/main/res/drawable/logo.png" width="300px" alt="GitHub Search App" />
 </p>
 
 # GitHub Search - Android App
@@ -32,7 +32,8 @@ ___
 
 **Android** | Screenshots
 |:-----:|:-----:|
-![Screenshot 1](./screenshots/Screenshot(1).png "Main Screen") | ![Screenshot 2](./screenshots/Screenshot(2).png "Main Screen")
-![Screenshot 3](./screenshots/Screenshot(3).png "Main Screen") | ![Screenshot 4](./screenshots/Screenshot(4).png "Main Screen")
-![Screenshot 5](./screenshots/Screenshot(5).png "Results Screen") | ![Screenshot 6](./screenshots/Screenshot(6).png "Results Screen")
-![Screenshot 7](./screenshots/Screenshot(7).png "Detail Screen") | ![Screenshot 8](./screenshots/Screenshot(8).png "About Screen")
+![Screenshot 0](./screenshots/Screenshot(1).png "Main Screen") | ![Screenshot 1](./screenshots/Screenshot(2).png "Main Screen")
+![Screenshot 2](./screenshots/Screenshot(3).png "Main Screen") | ![Screenshot 3](./screenshots/Screenshot(4).png "Main Screen")
+![Screenshot 4](./screenshots/Screenshot(5).png "Results Screen") | ![Screenshot 5](./screenshots/Screenshot(6).png "Results Screen")
+![Screenshot 6](./screenshots/Screenshot(7).png "Detail Screen") | ![Screenshot 7](./screenshots/Screenshot(8).png "About Screen")
+![Screenshot 8](./screenshots/Screenshot(7).png "Detail Screen") |
