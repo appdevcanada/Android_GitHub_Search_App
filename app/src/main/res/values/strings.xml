@@ -28,7 +28,7 @@
     <string name="page_size_hint">Page Size</string>
     <string name="min_followers_hint">min. # followers</string>
     <string name="repos_hint">repos</string>
-    <string name="app_version">%1$s\nv1.1.1</string>
+    <string name="app_version">%1$s\nv1.1.2</string>
     <string name="createdBy">Created By\nLuis Souza</string>
     <string name="company_name"><![CDATA[- App Dev Canada -]]></string>
     <string name="email_luis">appdevcanada@gmail.com</string>

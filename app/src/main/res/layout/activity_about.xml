@@ -23,27 +23,54 @@
 
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="271dp"
+                android:layout_height="match_parent"
                 android:gravity="center"
-                android:orientation="horizontal"
-                android:textAlignment="center">
+                android:orientation="horizontal">
 
-                <ImageView
-                    android:id="@+id/imageView3"
-                    android:layout_width="0dp"
-                    android:layout_height="250dp"
-                    android:layout_marginStart="50dp"
-                    android:layout_marginTop="0dp"
-                    android:layout_marginEnd="50dp"
-                    android:layout_weight="1"
-                    android:adjustViewBounds="true"
-                    android:contentDescription="@string/image_description"
-                    android:cropToPadding="true"
-                    android:elevation="2dp"
-                    android:scaleType="fitCenter"
-                    app:srcCompat="@drawable/profile"
-                    tools:srcCompat="@drawable/profile" />
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="271dp"
+                    android:gravity="center"
+                    android:orientation="horizontal"
+                    android:textAlignment="center">
+
+                    <androidx.cardview.widget.CardView
+                        android:layout_width="0dp"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:animateLayoutChanges="true"
+                        app:cardCornerRadius="15dp"
+                        app:cardElevation="5dp">
+
+                        <LinearLayout
+                            android:layout_width="250dp"
+                            android:layout_height="match_parent"
+                            android:gravity="center"
+                            android:orientation="horizontal">
+
+                            <ImageView
+                                android:id="@+id/imageView3"
+                                android:layout_width="0dp"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:layout_marginTop="0dp"
+                                android:layout_weight="1"
+                                android:contentDescription="@string/image_description"
+                                android:cropToPadding="true"
+                                android:elevation="5dp"
+                                android:scaleType="fitXY"
+                                app:srcCompat="@drawable/profile"
+                                tools:srcCompat="@drawable/profile" />
+                        </LinearLayout>
+
+                    </androidx.cardview.widget.CardView>
+
+                </LinearLayout>
             </LinearLayout>
+
+            <Space
+                android:layout_width="match_parent"
+                android:layout_height="30dp" />
 
             <TextView
                 android:id="@+id/txtProjectNameAndVersion"
